@@ -163,6 +163,4 @@ Run it:
 ```bash
 pip install scikit-learn
 python rl_chatbot.py
-```
-If you want, I can now make a neural network-based version (Deep Q-Learning) so the chatbot learns richer, free-form responses instead of a fixed set.
-Do you want me to upgrade it to DQN? That way it feels more like ChatGPT learning live from you.
+``` 
